@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Problems/Creating a map/out/
+/Problems/Creating a map/out/production/classes/
+/Problems/Filtering the list/out/
+/Problems/Filtering the list/out/production/classes/
+/Problems/Get the game mode/out/
+/Problems/Get the game mode/out/production/classes/
+/Problems/Kidnapper of Ice cream/out/
+/Problems/Kidnapper of Ice cream/out/production/classes/
+/Problems/Max and Min/out/
+/Problems/Max and Min/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Pick your team/out/
+/Problems/Pick your team/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
